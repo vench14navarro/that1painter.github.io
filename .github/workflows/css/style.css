@@ -1,0 +1,134 @@
+*{
+text-decoration: none;
+}
+
+.content1{
+	height:900px ;
+	width: 100%;
+	background-color: rgb(5, 19, 45);
+}
+
+.logo{
+	width: 50%;
+	height: 200px;
+	float: left;
+}
+.logoimage{
+	width: 40%;
+	margin-left: 25%;
+	margin-top: 3%;
+	height: 94%;
+}
+.navBar{
+	width: 50%;
+	height: 250px;
+	float: left;
+}
+
+td{
+	text-align: left;
+	color: white;
+	font-family: Arial;
+}
+
+th{
+	color: #79C8CF;
+	text-align: left;
+	font-size: 20px;
+	font-family: Arial;
+}
+
+.content2{
+	height: 600px;
+	width: 100%;
+	float: left;
+}
+
+.content2img{
+	width: 100%;
+	height: 100%;
+}
+
+.btnFounder{
+	height: 100px;
+	margin-left: 40%;
+	width:20%;
+	background-color: white;
+	bottom: 26%;
+	position: absolute;
+	background-color: rgb(5, 19, 45);
+}
+
+.btnText{
+	height:71%;
+	width: 91%;
+	border: 1px solid white;
+	margin-top: 4%;
+	margin-left: 4%;
+	text-align: center;
+}
+
+.founder{
+	font-style: normal;
+	color: white;
+	font-kerning: normal;
+	font-size: 18px;
+}
+
+.business{
+	width: 100%;
+	height: 950px;
+	margin-top: 20px;
+}
+
+.businessImg{
+	height: 100%;
+	width: 100%;
+}
+
+.ytVideo{
+	width: 100%;
+	height: 900px;
+	margin-top: 20px;
+}
+iframe{
+		height: 100%;
+		width: 	80%;
+		margin-left: 10%;
+		border: none;
+}
+
+.area{
+	height: 850px;
+	width: 100%;
+	background-image: url('../Area.png');
+	background-size: 100% 100%;
+}
+
+.btnAvail{
+	height: 135px;
+	width:88%;
+	margin-left: 6%;
+	position: relative;
+	top:4%;
+}
+
+.btnyoutube{
+	height: 185px;
+	width:86%;
+	margin-left: 7%;
+	position: relative;
+	top: 56%;
+}
+
+.number{
+	height: 850px;
+	width: 100%;
+	background-image: url('../img/number.png');
+	background-size: 100% 100%;
+}
+
+#typeForm{
+	height: 850px;
+	width: 100%;
+}
